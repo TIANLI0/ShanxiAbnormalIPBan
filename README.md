@@ -1,6 +1,8 @@
 # ShanxiAbnormalIPBan
 山西异常刷量PCDN IP封禁仓库
 
+如您由新的异常IP线索欢迎提交PR
+
 根据已掌握信息，异常刷量IP会在每天7:50-11:00 PM进行刷量。
 
 主要影响用户为国内CDN用户。
