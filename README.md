@@ -5,6 +5,8 @@
 
 主要影响用户为国内CDN用户。
 
+参考信息：https://www.dogecloud.com/announcement/26
+
 建议封禁以下IP段：
 ```
 221.205.168.0/23
