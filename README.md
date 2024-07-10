@@ -1,4 +1,4 @@
-<img width="768" alt="0619681bfae259c761f30178e4288ca" src="https://github.com/meng-luo/ShanxiAbnormalIPBan/assets/79274361/82727c7b-6002-4181-b050-d4c92655f52e"># ShanxiAbnormalIPBan
+# ShanxiAbnormalIPBan
 山西异常刷量PCDN IP封禁仓库
 
 如您由新的异常IP线索欢迎提交PR
@@ -22,5 +22,4 @@
 183.185.14.0/24
 
 118.81.184.0/24
-
 ```
